@@ -1,0 +1,75 @@
+.p-4{
+    padding: 10px;
+}
+.d-none{
+    display: none;
+}
+.d-flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+
+.red {
+    color: indianred;
+}
+.green {
+    color: lawngreen;
+}
+
+.mr-2{
+    margin-right: 6px;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.caption {
+    opacity: .9;
+    margin-bottom: 0px;
+}
+.nameTip:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    text-decoration: underline;
+}
+.onzon-inputTip{
+    background-color: #216bff;
+    color: #fff;
+    padding: 8px;
+    margin: 0 12px;
+    margin-bottom: 6px;
+    border-radius: 8px
+}
+
+.onzon-btn{
+    background-color: #216bff;
+    color: #fff;
+    padding: 8px;
+    margin: 0 4px;
+    border-radius: 4px;
+    max-width: 80px;
+    cursor: pointer;
+    text-align: center;
+    cursor: pointer;
+    transition: all .2s ease-in;
+}
+
+.onzon-btn:hover{
+    background-color: #1341a1;
+}
+.onzon-red{
+    color: red;
+}
+.onzon-noInfo{
+    padding: 8px;
+    margin: 8px 0;
+    background: indianred;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    color: white;
+}
